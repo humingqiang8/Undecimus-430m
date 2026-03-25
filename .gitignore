@@ -1,1 +1,1 @@
-Nothing should be ignored since only an SVG image file was added, which is a source file that should be tracked in version control.
+Nothing needs to be added to .gitignore for this change list. The only file added is 'rectangular_prism.svg', which is an SVG image file and should not be ignored according to the rules.
