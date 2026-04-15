@@ -1,1 +1,25 @@
-Nothing needs to be added to .gitignore for this change list. The only file added is 'rectangular_prism.svg', which is an SVG image file and should not be ignored according to the rules.
+```
+# Compiled and build artifacts
+*.o
+*.obj
+*.out
+
+# Dependencies
+.venv/
+venv/
+__pycache__/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Editors
+.vscode/
+.idea/
+
+# Environment
+.env
+.env.local
+*.env.*
+```
